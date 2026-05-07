@@ -63,7 +63,7 @@ Each day has its own branch: day 1, day 2, ..., day 30
 
 💡 How to Participate
 
-Follow the daily reels on Instagram (@code_with_garry)
+Follow the daily reels on Instagram (@code_with_gary)
 Code along every day
 Commit your progress daily
 Share your screenshot in comments with #SpringAI30DayChallenge
@@ -99,13 +99,11 @@ Anyone who wants production-ready AI skills
 
 📬 Support & Community
 
-Instagram: @yourhandle (Daily reels)
+Instagram: @code_with_gary (Daily reels)
 GitHub Discussions: Ask questions
 LinkedIn: Share your progress
 
 
 ⭐ Star this repo if you're joining the challenge!
 Let’s make 2026 the year Java dominates AI development!
-  ollama/ollama
 
-docker exec -it ollama ollama pull llama3.2:1b
