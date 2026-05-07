@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Why Join This Challenge?
+##  Why Join This Challenge?
 
 As a **Lead Java Spring Boot Developer** with extensive experience shipping AI features in enterprise environments, I created this challenge because:
 
@@ -27,7 +27,7 @@ By the end of Day 30, you will have:
 
 ---
 
-## 🛠 Prerequisites
+##  Prerequisites
 
 - **Java 21** (or higher)
 - **Docker Desktop** (for Ollama)
@@ -46,8 +46,11 @@ docker run -d \
   -v ollama:/root/.ollama \
   -p 11434:11434 \
   --name ollama \
+  ollama/ollama
 
-2. Create Project
+docker exec -it ollama ollama pull llama3.2:1b
+
+ 2. Create Project
 Go to start.spring.io → Add:
 
 Spring Web
